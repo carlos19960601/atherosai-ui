@@ -1,0 +1,3 @@
+[submodule "ui"]
+	path = ui
+	url = tttps://github.com/atherosai/ui.git
